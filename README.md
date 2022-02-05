@@ -10,4 +10,4 @@ Create a data pipeline which sources, processes, stores, and displays informatio
   - Visualize the data with tableau
   
 ### Personal comment
-This task is an uncompleted one and the work is still in progress.
+This task is still in progress.
